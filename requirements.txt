@@ -4,3 +4,8 @@ numpy
 sympy
 scipy
 ipycanvas
+pyvista
+vedo
+moviepy
+random
+__future__ 
